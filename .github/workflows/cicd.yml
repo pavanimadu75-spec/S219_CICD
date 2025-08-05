@@ -45,4 +45,4 @@ jobs:
           git config --global user.name "pavanimadu75-spec"
           git config --global user.email "pavanimadu75@gmail.com"
           npm install -g gh-pages
-          gh-pages -d dist -r https://x-access-token:${GITHUB_TOKEN}@https://github.com/pavanimadu75-spec/S219_CICD.git
+          gh-pages -d dist -r https://x-access-token:${GITHUB_TOKEN}@github.com/pavanimadu75-spec/S219_CICD.git
