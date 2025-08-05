@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://githubelan77.github.io/S219_CICD",
+  "homepage": "https://pavanimadu75-spec.github.io/S219_CICD",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
